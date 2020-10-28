@@ -9,7 +9,7 @@
 Hi, I'm Phoenix Zhao.
   <img align="right" alt="GIF" src="https://github.com/Phoenix500526/Phoenix500526/blob/main/coding.gif?raw=true" width="500" height="320" />
 
-** Talking about Personal Stuffs:**
+**Talking about Personal Stuffs:**
 * 🌱 I’m currently learning C++ and lua;
 * 💬 Ask me about anything, I am happy to help;
 
