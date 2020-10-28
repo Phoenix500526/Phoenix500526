@@ -27,6 +27,7 @@ Hi, I'm Phoenix, a cpp programmer. I have worked as an embedded engineer at FlyA
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning C++ and lua;
 - 💬 Ask me about anything, I am happy to help;
+- 📫 Contact with me: http://phoenix400426@gmail.com;
 
 
 **Languages and Tools:**  
@@ -38,6 +39,7 @@ Hi, I'm Phoenix, a cpp programmer. I have worked as an embedded engineer at FlyA
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+
 
 <br />
 <br />
