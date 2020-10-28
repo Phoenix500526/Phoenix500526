@@ -8,7 +8,12 @@
 <a href="https://www.jianshu.com/u/d2aa8a7f1468">
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://github.com/Phoenix500526/Phoenix500526/blob/main/jianshu.svg" />
 </a>
+<a href="https://leetcode-cn.com/u/jin-ji-de-lancelot/">
+  <img align="left" alt="Phoenix's leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/leetcode.svg" />
+</a>
+
 <br />
+
 Hi, I'm Phoenix Zhao.
   <img align="right" alt="GIF" src="https://github.com/Phoenix500526/Phoenix500526/blob/main/coding.gif?raw=true" width="500" height="320" />
 
