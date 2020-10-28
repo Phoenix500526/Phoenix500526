@@ -39,6 +39,18 @@ Hi, I'm Phoenix, a cpp programmer. I have worked as an embedded engineer at FlyA
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 
+📊 **This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
+```text
+C++                   4 hrs 23 mins   ████████████████░░░░░░░░░   63.53 % 
+lua                   2 hrs 10 mins   ████████░░░░░░░░░░░░░░░░░   31.50 % 
+Text                  7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+Markdown              7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+cmake                 4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+Sublime Text Config   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+```
+<!--END_SECTION:waka-->
+
 <br />
 <br />
 <br />
