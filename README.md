@@ -12,15 +12,19 @@
   <img align="left" alt="Phoenix's leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/leetcode.svg" />
 </a>
 
+  
+  
+<br />
 <br />
   
-Hi, I'm Phoenix Zhao.
- 
+Hi, I'm Phoenix Zhao.  
+  
   <img align="right" alt="GIF" src="https://github.com/Phoenix500526/Phoenix500526/blob/main/coding.gif?raw=true" width="500" height="320" />
 
 **Talking about Personal Stuffs:**
-* 🌱 I’m currently learning C++ and lua;
-* 💬 Ask me about anything, I am happy to help;
+- 👨🏽‍💻 I’m currently working on something cool :wink:;
+- 🌱 I’m currently learning C++ and lua;
+- 💬 Ask me about anything, I am happy to help;
 
 
 **Languages and Tools:**  
