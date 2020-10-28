@@ -1,4 +1,4 @@
-### Hey！Welcome to my profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey！Welcome to my profile! 👋  
 <a href="https://twitter.com/Lancelo92664230">
   <img align="left" alt="Phoenix's twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/twitter.svg" />
 </a>
@@ -10,6 +10,7 @@
 </a>
 
 <br />
+
 Hi, I'm Phoenix Zhao.
   <img align="right" alt="GIF" src="https://github.com/Phoenix500526/Phoenix500526/blob/main/coding.gif?raw=true" width="500" height="320" />
 
