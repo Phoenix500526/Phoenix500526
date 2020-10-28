@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hey！Welcome to my profile! 👋
+Hi, I'm Phoenix Zhao.
 
+* 🌱 I’m currently learning C++ and lua;
+* 💬 Ask me about anything, I am happy to help;
 <!--
 **Phoenix500526/Phoenix500526** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
