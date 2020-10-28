@@ -7,7 +7,7 @@
 </a>  
 <br />
 Hi, I'm Phoenix Zhao.
-  <img align="right" alt="GIF" src="https://github.com/Phoenix50526/Phoenix50526/blob/master/coding.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/Phoenix500526/Phoenix500526/blob/main/coding.gif?raw=true" width="500" height="320" />
 
 ** Talking about Personal Stuffs:**
 * 🌱 I’m currently learning C++ and lua;
