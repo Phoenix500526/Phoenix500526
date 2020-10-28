@@ -18,7 +18,6 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=Phoenix.Phoenix)
   
 <br />
-<br />
   
 Hi, I'm Phoenix Zhao.  
   
@@ -40,6 +39,9 @@ Hi, I'm Phoenix Zhao.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
