@@ -1,13 +1,15 @@
-### Hey！Welcome to my profile! 👋
+### Hey！Welcome to my profile! 👋  
 <a href="https://twitter.com/Lancelo92664230">
   <img align="left" alt="Phoenix's twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/twitter.svg" />
 </a>
 <a href="https://stackoverflow.com/users/8557622/phoenix-chao">
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/stackoverflow.svg" />
 </a>  
-
+<br />
 Hi, I'm Phoenix Zhao.
+  <img align="right" alt="GIF" src="https://github.com/Phoenix50526/Phoenix50526/blob/master/coding.gif?raw=true" width="500" height="320" />
 
+** Talking about Personal Stuffs:**
 * 🌱 I’m currently learning C++ and lua;
 * 💬 Ask me about anything, I am happy to help;
 
