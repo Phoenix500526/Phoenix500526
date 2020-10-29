@@ -22,6 +22,9 @@
 Hi, I'm Phoenix, a cpp programmer. I have worked as an embedded engineer at FlyAudio company. I am currently freelancing. Beside Programming, I also enjoy reading, working out and traveling. 
   
   <img align="right" alt="GIF" src="https://github.com/Phoenix500526/Phoenix500526/blob/main/coding.gif?raw=true" width="500" height="320" />
+<br />
+<br />
+<br />
 
 **Talking about Personal Stuffs:**
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
@@ -29,6 +32,9 @@ Hi, I'm Phoenix, a cpp programmer. I have worked as an embedded engineer at FlyA
 - 💬 Ask me about anything, I am happy to help;
 - 📫 My blog:[进击的Lancelot](https://www.jianshu.com/u/d2aa8a7f1468)
 
+<br />
+<br />
+<br />
 
 **Languages and Tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
@@ -41,12 +47,7 @@ Hi, I'm Phoenix, a cpp programmer. I have worked as an embedded engineer at FlyA
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 
 
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
+
 <br />
 
 📊 **This Week I Spent My Time On:**
