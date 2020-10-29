@@ -23,8 +23,6 @@ Hi, I'm Phoenix, a cpp programmer. I have worked as an embedded engineer at FlyA
   
   <img align="right" alt="GIF" src="https://github.com/Phoenix500526/Phoenix500526/blob/main/coding.gif?raw=true" width="500" height="320" />
 <br />
-<br />
-<br />
 
 **Talking about Personal Stuffs:**
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
