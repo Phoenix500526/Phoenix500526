@@ -28,7 +28,7 @@ Hi, I'm Phoenix, a cpp programmer. I have worked as an embedded engineer at FlyA
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning C++ and lua;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 My blog:[进击的Lancelot](https://www.jianshu.com/u/d2aa8a7f1468)
+- 📫 Email me:[Phoenix](mailto:Phoenix500526@163.com")
 
 <br />
 <br />
