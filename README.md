@@ -60,6 +60,11 @@ EJS        55 mins         ▒░░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
+📕 **My Recent Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
 <details>
 <summary>📈 My GitHub Stats</summary>
 
