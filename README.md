@@ -66,6 +66,11 @@ EJS        55 mins         ▒░░░░░░░░░░░░░░░░�
 
 🍺 **My StackOverflow Activity**
 <!-- STACKOVERFLOW:START -->
+- [Why uses implicit_cast<size_t>(int) instead of static_cast<size_t>(int)?](https://stackoverflow.com/questions/64496874/why-uses-implicit-castsize-tint-instead-of-static-castsize-tint)
+- [Is that the thread object can be moved in C++ 11 reasonable?](https://stackoverflow.com/questions/64461444/is-that-the-thread-object-can-be-moved-in-c-11-reasonable)
+- [clang: warning: argument unused during compilation: '-rdynamic'](https://stackoverflow.com/questions/64449180/clang-warning-argument-unused-during-compilation-rdynamic)
+- [Is there any way to detect a program's version in cmake?](https://stackoverflow.com/questions/64401987/is-there-any-way-to-detect-a-programs-version-in-cmake)
+- [Answer by Phoenix Chao for Q: conan error: Incorrect 'clang', is not the one detected by CMake: 'GNU' when I use the option "-s build_type=Debug"](https://stackoverflow.com/questions/64306231/q-conan-error-incorrect-clang-is-not-the-one-detected-by-cmake-gnu-when/64310694#64310694)
 <!-- STACKOVERFLOW:END -->
 
 <details>
