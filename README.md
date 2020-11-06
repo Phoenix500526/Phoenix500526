@@ -64,6 +64,9 @@ EJS        55 mins         ▒░░░░░░░░░░░░░░░░�
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+🍺 **My StackOverflow Activity**
+<!-- STACKOVERFLOW:START -->
+<!-- STACKOVERFLOW:END -->
 
 <details>
 <summary>📈 My GitHub Stats</summary>
