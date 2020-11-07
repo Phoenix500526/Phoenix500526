@@ -29,7 +29,7 @@ Hi, I'm Phoenix, a cpp programmer. I have worked as an embedded engineer at FlyA
 - 🌱 I’m currently learning C++ and lua;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 [Mail to me](mailto:Phoenix400426@gmail.com")
-- 🖊 My Blog: [hacker-cube]()
+- 🖊 My Blog: [hacker-cube](https://hacker-cube.com)
 <br />
 <br />
 
