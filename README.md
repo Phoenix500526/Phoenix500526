@@ -61,8 +61,8 @@ EJS        1 hr 39 mins    ▓░░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 📕 **My Recent Blog posts:**
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOGPOSTS:START -->
+<!-- BLOGPOSTS:END -->
 
 🍺 **My StackOverflow Activity**
 <!-- STACKOVERFLOW:START -->
