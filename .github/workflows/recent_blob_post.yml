@@ -19,7 +19,7 @@ jobs:
         run: |
             git config --global user.name 'Phoenix'
             git config --global user.email 'Phoenix500526@163.com'
-            git pull --rebase origin master
+            git pull --rebase https://github.com/Phoenix500526/Phoenix500526.git master
             git add .
             git diff --quiet --cached || git commit -m "Update README"    
       - name: Push changes
