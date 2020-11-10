@@ -78,13 +78,13 @@ CMake      2 hrs 10 mins   █░░░░░░░░░░░░░░░░�
 <td valign="top" width="50%">
   
 #### 📕 My Recent Blog posts
-<!-- BLOGPOSTS:START -->
+<!-- BLOG-POST-LIST:START -->
 * [对 muduo 网络库线程池的思考与实践](https://hacker-cube.com/2020/11/06/%E5%AF%B9-muduo-%E7%BD%91%E7%BB%9C%E5%BA%93%E7%BA%BF%E7%A8%8B%E6%B1%A0%E7%9A%84%E6%80%9D%E8%80%83%E4%B8%8E%E5%AE%9E%E8%B7%B5/)
 * [对 muduo 网络库异常对象的实践与思考](https://hacker-cube.com/2020/11/05/%E5%AF%B9-muduo-%E7%BD%91%E7%BB%9C%E5%BA%93%E5%BC%82%E5%B8%B8%E5%AF%B9%E8%B1%A1%E7%9A%84%E5%AE%9E%E8%B7%B5%E4%B8%8E%E6%80%9D%E8%80%83/)
 * [对 muduo 网络库中的线程模型的思考与实践](https://hacker-cube.com/2020/11/05/%E5%AF%B9-muduo-%E7%BD%91%E7%BB%9C%E5%BA%93%E4%B8%AD%E7%9A%84%E7%BA%BF%E7%A8%8B%E6%A8%A1%E5%9E%8B%E7%9A%84%E6%80%9D%E8%80%83%E4%B8%8E%E5%AE%9E%E8%B7%B5/)
 * [对 muduo 网络库中互斥量与条件变量的思考与实践](https://hacker-cube.com/2020/11/05/%E5%AF%B9-muduo-%E7%BD%91%E7%BB%9C%E5%BA%93%E4%B8%AD%E4%BA%92%E6%96%A5%E9%87%8F%E4%B8%8E%E6%9D%A1%E4%BB%B6%E5%8F%98%E9%87%8F%E7%9A%84%E6%80%9D%E8%80%83%E4%B8%8E%E5%AE%9E%E8%B7%B5/)
 * [clang 的线程安全注解TSA](https://hacker-cube.com/2020/11/05/clang-%E7%9A%84%E7%BA%BF%E7%A8%8B%E5%AE%89%E5%85%A8%E6%B3%A8%E8%A7%A3TSA/)
-<!-- BLOGPOSTS:END -->
+<!-- BLOG-POST-LIST:END -->
 
 </td>
   </tr>
