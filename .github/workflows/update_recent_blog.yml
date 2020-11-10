@@ -12,5 +12,5 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           date_format: fullDate 
-          template: "$newline* [$title]($url) - $date"
+          #template: "$newline* [$title]($url) - $date"
           feed_list: "https://www.hacker-cube.com/atom.xml"
