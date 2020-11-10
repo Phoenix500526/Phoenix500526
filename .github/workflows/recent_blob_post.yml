@@ -3,7 +3,7 @@ on:
   schedule:
     # Runs every day at 3pm UTC (11pm SG)
     # cron: `0 15 * * *`
-    - cron: '12 8 * * *'
+    - cron: '21 0 * * *'
 
 jobs:
   pull_blog_rss:
