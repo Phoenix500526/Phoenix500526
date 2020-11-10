@@ -78,13 +78,7 @@ CMake      2 hrs 10 mins   █░░░░░░░░░░░░░░░░�
 <td valign="top" width="50%">
   
 #### 📕 My Recent Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [对 muduo 网络库单例模式的思考与实践(下)](http://example.com/2020/11/09/%E5%AF%B9-muduo-%E7%BD%91%E7%BB%9C%E5%BA%93%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F%E7%9A%84%E6%80%9D%E8%80%83%E4%B8%8E%E5%AE%9E%E8%B7%B5-%E4%B8%8B/)
-- [对 muduo 网络库单例模式的思考与实践(上)](http://example.com/2020/11/09/%E5%AF%B9-muduo-%E7%BD%91%E7%BB%9C%E5%BA%93%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F%E7%9A%84%E6%80%9D%E8%80%83%E4%B8%8E%E5%AE%9E%E8%B7%B5-%E4%B8%8A/)
-- [对 muduo 网络库线程池的思考与实践](http://example.com/2020/11/06/%E5%AF%B9-muduo-%E7%BD%91%E7%BB%9C%E5%BA%93%E7%BA%BF%E7%A8%8B%E6%B1%A0%E7%9A%84%E6%80%9D%E8%80%83%E4%B8%8E%E5%AE%9E%E8%B7%B5/)
-- [对 muduo 网络库异常对象的实践与思考](http://example.com/2020/11/05/%E5%AF%B9-muduo-%E7%BD%91%E7%BB%9C%E5%BA%93%E5%BC%82%E5%B8%B8%E5%AF%B9%E8%B1%A1%E7%9A%84%E5%AE%9E%E8%B7%B5%E4%B8%8E%E6%80%9D%E8%80%83/)
-- [对 muduo 网络库中的线程模型的思考与实践](http://example.com/2020/11/05/%E5%AF%B9-muduo-%E7%BD%91%E7%BB%9C%E5%BA%93%E4%B8%AD%E7%9A%84%E7%BA%BF%E7%A8%8B%E6%A8%A1%E5%9E%8B%E7%9A%84%E6%80%9D%E8%80%83%E4%B8%8E%E5%AE%9E%E8%B7%B5/)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->[对 muduo 网络库单例模式的思考与实践(下)](http://example.com/2020/11/09/%E5%AF%B9-muduo-%E7%BD%91%E7%BB%9C%E5%BA%93%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F%E7%9A%84%E6%80%9D%E8%80%83%E4%B8%8E%E5%AE%9E%E8%B7%B5-%E4%B8%8B/) - Mon Nov 09 2020 6:17 AM[对 muduo 网络库单例模式的思考与实践(上)](http://example.com/2020/11/09/%E5%AF%B9-muduo-%E7%BD%91%E7%BB%9C%E5%BA%93%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F%E7%9A%84%E6%80%9D%E8%80%83%E4%B8%8E%E5%AE%9E%E8%B7%B5-%E4%B8%8A/) - Mon Nov 09 2020 6:16 AM[对 muduo 网络库线程池的思考与实践](http://example.com/2020/11/06/%E5%AF%B9-muduo-%E7%BD%91%E7%BB%9C%E5%BA%93%E7%BA%BF%E7%A8%8B%E6%B1%A0%E7%9A%84%E6%80%9D%E8%80%83%E4%B8%8E%E5%AE%9E%E8%B7%B5/) - Fri Nov 06 2020 6:51 AM[对 muduo 网络库异常对象的实践与思考](http://example.com/2020/11/05/%E5%AF%B9-muduo-%E7%BD%91%E7%BB%9C%E5%BA%93%E5%BC%82%E5%B8%B8%E5%AF%B9%E8%B1%A1%E7%9A%84%E5%AE%9E%E8%B7%B5%E4%B8%8E%E6%80%9D%E8%80%83/) - Thu Nov 05 2020 3:14 PM[对 muduo 网络库中的线程模型的思考与实践](http://example.com/2020/11/05/%E5%AF%B9-muduo-%E7%BD%91%E7%BB%9C%E5%BA%93%E4%B8%AD%E7%9A%84%E7%BA%BF%E7%A8%8B%E6%A8%A1%E5%9E%8B%E7%9A%84%E6%80%9D%E8%80%83%E4%B8%8E%E5%AE%9E%E8%B7%B5/) - Thu Nov 05 2020 12:22 PM<!-- BLOG-POST-LIST:END -->
 
 </td>
   </tr>
