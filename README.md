@@ -90,12 +90,10 @@ CMake      49 mins         ▓░░░░░░░░░░░░░░░░�
   </table>
 
 
-<details>
 <summary>📈 My GitHub Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Phoenix500526&show_icons=true&theme=gotham" alt="Phoenix500526" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Phoenix500526&show_icons=true&theme=gotham" alt="Phoenix500526" />
 
-</details>
 <!--
 **Phoenix500526/Phoenix500526** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
