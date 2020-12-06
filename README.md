@@ -89,14 +89,15 @@ CMake      49 mins         ▓░░░░░░░░░░░░░░░░�
   </tr>
   </table>
 
-<details>
-<summary>📈 My GitHub Stats</summary>
-<br>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Phoenix500526&show_icons=true&theme=gotham" alt="Phoenix500526" />
-</details>
+
+#### 📈 My GitHub Stats && Top Language
+[![Yue's github stats](https://github-readme-stats.vercel.app/api?username=Phoenix500526&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phoenix500526&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <!--
 **Phoenix500526/Phoenix500526** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
