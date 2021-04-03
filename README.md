@@ -67,11 +67,11 @@ Jinja2   36 mins         █░░░░░░░░░░░░░░░░░�
 #### 🍺 My StackOverflow Activity
 
 <!-- STACKOVERFLOW:START -->
+- [When I iterated a string list which generate by jinja2， I get a series of chars rather than strings. Why this happend?](https://stackoverflow.com/questions/66915254/when-i-iterated-a-string-list-which-generate-by-jinja2-i-get-a-series-of-chars)
 - [error: ‘message_source&’ is not a class, struct, or union type (However, message_source is a class)](https://stackoverflow.com/questions/66327731/error-message-source-is-not-a-class-struct-or-union-type-however-message)
 - [How to pass a rvalue reference parameter to a template operator() function in C++?](https://stackoverflow.com/questions/66300432/how-to-pass-a-rvalue-reference-parameter-to-a-template-operator-function-in-c)
 - [error: no match for ‘operator=’ (operand types are ‘const XXX’ and ‘std::remove_reference<const XXX&>::type’ {aka ‘const XXX’})](https://stackoverflow.com/questions/65730007/error-no-match-for-operator-operand-types-are-const-xxx-and-stdremove)
 - [When do I consider the writable option in sock_state_cb of C-ares DNS?](https://stackoverflow.com/questions/64831810/when-do-i-consider-the-writable-option-in-sock-state-cb-of-c-ares-dns)
-- [Why the rvalue reference parameter cannot be passed between functions directly?](https://stackoverflow.com/questions/64798137/why-the-rvalue-reference-parameter-cannot-be-passed-between-functions-directly)
 <!-- STACKOVERFLOW:END -->
 
 </td>
