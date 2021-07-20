@@ -52,7 +52,8 @@ Hi, I'm Phoenix, a cpp programmer. I have worked as an embedded engineer at FlyA
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-Python   1 hr 28 mins    █████████████████████████   100.00 % 
+Python   1 hr 28 mins    ██████████████████████▒░░   89.83 % 
+Text     10 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
 ```
 <!--END_SECTION:waka-->
 
