@@ -63,11 +63,11 @@ YAML   1 hr 11 mins    ███████████████████
 #### 🍺 My StackOverflow Activity
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Phoenix Chao for Rendering a template to the remote end and the rendered result should only contain information about the node on which the task is running](https://stackoverflow.com/questions/68970861/rendering-a-template-to-the-remote-end-and-the-rendered-result-should-only-conta/68971234#68971234)
+- [Rendering a template to the remote end and the rendered result should only contain information about the node on which the task is running](https://stackoverflow.com/questions/68970861/rendering-a-template-to-the-remote-end-and-the-rendered-result-should-only-conta)
 - [Copying local directories to remote hosts with the same directory name](https://stackoverflow.com/questions/68508505/copying-local-directories-to-remote-hosts-with-the-same-directory-name)
 - [Trouble: gwcli.utils.GatewayAPIError: Unknown error connecting to http://localhost:5001/api/config](https://stackoverflow.com/questions/68357721/trouble-gwcli-utils-gatewayapierror-unknown-error-connecting-to-http-localho)
 - [how to init a fake environment for every test method in python3 unittest？](https://stackoverflow.com/questions/67205819/how-to-init-a-fake-environment-for-every-test-method-in-python3-unittest)
-- [When I iterated a string list which generate by jinja2， I get a series of chars rather than strings. Why this happend?](https://stackoverflow.com/questions/66915254/when-i-iterated-a-string-list-which-generate-by-jinja2-i-get-a-series-of-chars)
-- [error: ‘message_source&’ is not a class, struct, or union type (However, message_source is a class)](https://stackoverflow.com/questions/66327731/error-message-source-is-not-a-class-struct-or-union-type-however-message)
 <!-- STACKOVERFLOW:END -->
 
 </td>
