@@ -66,11 +66,11 @@ INI      9 mins          ▓░░░░░░░░░░░░░░░░░�
 #### 🍺 My StackOverflow Activity
 
 <!-- STACKOVERFLOW:START -->
+- [How to change the cpu scaling_governor value via udev at the booting time](https://stackoverflow.com/questions/70053604/how-to-change-the-cpu-scaling-governor-value-via-udev-at-the-booting-time)
 - [&quot;SyntaxError: invalid syntax error&quot; when building python-3.8.9 source code as a rpm package on Centos 7.6](https://stackoverflow.com/questions/69053126/syntaxerror-invalid-syntax-error-when-building-python-3-8-9-source-code-as-a)
 - [Answer by Phoenix Chao for Rendering a template to the remote end and the rendered result should only contain information about the node on which the task is running](https://stackoverflow.com/questions/68970861/rendering-a-template-to-the-remote-end-and-the-rendered-result-should-only-conta/68971234#68971234)
 - [Rendering a template to the remote end and the rendered result should only contain information about the node on which the task is running](https://stackoverflow.com/questions/68970861/rendering-a-template-to-the-remote-end-and-the-rendered-result-should-only-conta)
 - [Copying local directories to remote hosts with the same directory name](https://stackoverflow.com/questions/68508505/copying-local-directories-to-remote-hosts-with-the-same-directory-name)
-- [Trouble: gwcli.utils.GatewayAPIError: Unknown error connecting to http://localhost:5001/api/config](https://stackoverflow.com/questions/68357721/trouble-gwcli-utils-gatewayapierror-unknown-error-connecting-to-http-localho)
 <!-- STACKOVERFLOW:END -->
 
 </td>
