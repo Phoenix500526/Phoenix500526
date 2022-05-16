@@ -53,8 +53,10 @@ Hi, I'm Phoenix, a cpp programmer. I have worked as an embedded engineer at FlyA
 <!--START_SECTION:waka-->
 
 ```text
-Markdown   25 mins         █████████████████▓░░░░░░░   70.42 %
-Python     10 mins         ███████▒░░░░░░░░░░░░░░░░░   29.58 %
+Jinja2   40 mins         ███████████████████▒░░░░░   77.96 %
+Python   10 mins         █████░░░░░░░░░░░░░░░░░░░░   20.43 %
+YAML     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 ```
 
 <!--END_SECTION:waka-->
