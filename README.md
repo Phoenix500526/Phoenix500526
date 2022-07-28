@@ -53,7 +53,8 @@ Hi, I'm Phoenix, a cpp programmer. I have worked as an embedded engineer at FlyA
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+C++          17 hrs 41 mins  ████████████████████▒░░░░   80.87 %
+Other        1 hr 8 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.23 %
 ```
 
 <!--END_SECTION:waka-->
