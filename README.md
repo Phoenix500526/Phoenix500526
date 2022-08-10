@@ -68,11 +68,11 @@ Other        3 hrs 3 mins    ██░░░░░░░░░░░░░░░
 #### 🍺 My StackOverflow Activity
 
 <!-- STACKOVERFLOW:START -->
+- [Is a function&lpar;without any global or static variable&rpar; using a reentrant lock still a reentrant function？](https://stackoverflow.com/questions/73294388/is-a-functionwithout-any-global-or-static-variable-using-a-reentrant-lock-stil)
 - [How to change the cpu scaling_governor value via udev at the booting time](https://stackoverflow.com/questions/70053604/how-to-change-the-cpu-scaling-governor-value-via-udev-at-the-booting-time)
 - [&quot;SyntaxError: invalid syntax error&quot; when building python-3.8.9 source code as a rpm package on Centos 7.6](https://stackoverflow.com/questions/69053126/syntaxerror-invalid-syntax-error-when-building-python-3-8-9-source-code-as-a)
 - [Answer by Phoenix Chao for Rendering a template to the remote end and the rendered result should only contain information about the node on which the task is running](https://stackoverflow.com/questions/68970861/rendering-a-template-to-the-remote-end-and-the-rendered-result-should-only-conta/68971234#68971234)
 - [Rendering a template to the remote end and the rendered result should only contain information about the node on which the task is running](https://stackoverflow.com/questions/68970861/rendering-a-template-to-the-remote-end-and-the-rendered-result-should-only-conta)
-- [Copying local directories to remote hosts with the same directory name](https://stackoverflow.com/questions/68508505/copying-local-directories-to-remote-hosts-with-the-same-directory-name)
 <!-- STACKOVERFLOW:END -->
 
 </td>
