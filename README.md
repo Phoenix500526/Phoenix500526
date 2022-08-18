@@ -53,10 +53,12 @@ Hi, I'm Phoenix, a cpp programmer. I have worked as an embedded engineer at FlyA
 <!--START_SECTION:waka-->
 
 ```text
-C++      10 hrs 30 mins  ██████████████████▓░░░░░░   75.26 %
-Jinja2   1 hr 1 min      █▓░░░░░░░░░░░░░░░░░░░░░░░   07.32 %
-YAML     54 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.56 %
-Other    46 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.58 %
+C++      10 hrs 30 mins  █████████████▓░░░░░░░░░░░   54.66 %
+C        3 hrs 25 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.81 %
+YAML     1 hr 33 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 %
+Jinja2   1 hr 16 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.67 %
+Python   1 hr 5 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 %
+Other    54 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
 ```
 
 <!--END_SECTION:waka-->
