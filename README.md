@@ -53,7 +53,8 @@ Hi, I'm Phoenix, a cpp programmer. I have worked as an embedded engineer at FlyA
 <!--START_SECTION:waka-->
 
 ```text
-YAML   6 mins          █████████████████████████   100.00 %
+YAML    9 mins          ███████████████░░░░░░░░░░   60.33 %
+Other   5 mins          █████████▒░░░░░░░░░░░░░░░   37.49 %
 ```
 
 <!--END_SECTION:waka-->
