@@ -1,4 +1,4 @@
-### Hey！Welcome to my profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+### Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 <a href="https://twitter.com/Lancelo92664230">
   <img align="left" alt="Phoenix's twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/twitter.svg" />
 </a>
@@ -15,7 +15,7 @@
   <img align="left" alt="Phoenix's leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/leetcode.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=Phoenix.Phoenix)
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
   
 <br />
   
@@ -26,7 +26,7 @@ Hi, I'm Phoenix, a cpp programmer. I have worked as an embedded engineer at FlyA
 
 **Talking about Personal Stuffs:**
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning C++ and lua;
+- 🌱 I’m currently learning Rust and lua;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 [Mail to me](mailto:Phoenix400426@gmail.com")
 - 🖊 My Blog: [hacker-cube](https://hacker-cube.com)
@@ -45,6 +45,8 @@ Hi, I'm Phoenix, a cpp programmer. I have worked as an embedded engineer at FlyA
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="20" src="https://github.com/Phoenix500526/Phoenix500526/blob/main/rust_icon.svg"></code>
+
 
 
 <br />
