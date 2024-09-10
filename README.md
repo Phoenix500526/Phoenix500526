@@ -71,7 +71,7 @@ SQL           31 mins         ▒░░░░░░░░░░░░░░░�
 #### 🍺 My StackOverflow Activity
 
 <!-- STACKOVERFLOW:START -->
-- [How does the tide-operator start a pd cluster?](https://stackoverflow.com/questions/77439628/how-does-the-tide-operator-start-a-pd-cluster)
+- [How does the tidb-operator start a pd cluster?](https://stackoverflow.com/questions/77439628/how-does-the-tidb-operator-start-a-pd-cluster)
 - [How to change the cpu scaling_governor value via udev at the booting time](https://stackoverflow.com/questions/70053604/how-to-change-the-cpu-scaling-governor-value-via-udev-at-the-booting-time)
 - [&quot;SyntaxError: invalid syntax error&quot; when building python-3.8.9 source code as a rpm package on Centos 7.6](https://stackoverflow.com/questions/69053126/syntaxerror-invalid-syntax-error-when-building-python-3-8-9-source-code-as-a)
 - [Answer by Phoenix Chao for Rendering a template to the remote end and the rendered result should only contain information about the node on which the task is running](https://stackoverflow.com/questions/68970861/rendering-a-template-to-the-remote-end-and-the-rendered-result-should-only-conta/68971234#68971234)
