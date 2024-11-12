@@ -55,10 +55,11 @@ Hi, I'm Phoenix, a cpp programmer. I have worked as an embedded engineer at FlyA
 <!--START_SECTION:waka-->
 
 ```txt
-Python       1 hr 55 mins    ██████████████████▒░░░░░░   73.97 %
-Other        30 mins         █████░░░░░░░░░░░░░░░░░░░░   19.74 %
-Bash         8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
-SSH Config   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+Python       3 hrs 40 mins   █████████████████████▓░░░   86.92 %
+Other        30 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.20 %
+SSH Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
