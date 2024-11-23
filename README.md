@@ -55,9 +55,7 @@ Hi, I'm Phoenix, a cpp programmer. I have worked as an embedded engineer at FlyA
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   10 mins         ███████████████████░░░░░░   75.41 %
-C            3 mins          ██████░░░░░░░░░░░░░░░░░░░   23.43 %
-YAML         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+TypeScript   10 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
