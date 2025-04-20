@@ -55,11 +55,11 @@ Hi, I'm Phoenix, a cpp programmer. I have worked as an embedded engineer at FlyA
 <!--START_SECTION:waka-->
 
 ```txt
-Rust       4 hrs 16 mins   ████████████▒░░░░░░░░░░░░   48.80 %
-Markdown   3 hrs 7 mins    █████████░░░░░░░░░░░░░░░░   35.75 %
-YAML       28 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 %
-Bash       25 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.84 %
-TOML       18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
+Markdown   5 hrs 33 mins   ████████████▒░░░░░░░░░░░░   49.70 %
+Rust       4 hrs 16 mins   █████████▓░░░░░░░░░░░░░░░   38.20 %
+YAML       28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
+Bash       25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
+TOML       18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
 ```
 
 <!--END_SECTION:waka-->
