@@ -55,11 +55,10 @@ Hi, I'm Phoenix, a cpp programmer. I have worked as an embedded engineer at FlyA
 <!--START_SECTION:waka-->
 
 ```txt
-CMake     30 mins         █████████████░░░░░░░░░░░░   52.57 %
-C++       14 mins         ██████░░░░░░░░░░░░░░░░░░░   24.62 %
-Rust      10 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.24 %
-Other     1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
-Cheetah   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+CMake     30 mins         █████████████▓░░░░░░░░░░░   54.14 %
+C++       14 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.36 %
+Rust      10 mins         █████░░░░░░░░░░░░░░░░░░░░   19.81 %
+Cheetah   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
 ```
 
 <!--END_SECTION:waka-->
