@@ -55,8 +55,8 @@ Hi, I'm Phoenix, a cpp programmer. I have worked as an embedded engineer at FlyA
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown       3 hrs 49 mins   ██████████████████████▓░░   91.31 %
-TeX            21 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 %
+Markdown       4 hrs 1 min     ███████████████████████░░   91.70 %
+TeX            21 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 %
 OpenEdge ABL   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 Python         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
