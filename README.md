@@ -96,7 +96,7 @@ TeX        6 mins                ░░░░░░░░░░░░░░░�
 
 #### 📈 My GitHub Stats && Top Language
 [![Phoenix's GitHub stats](https://github-stats-extended.vercel.app/api?username=Phoenix500526)](https://github.com/stats-organization/github-stats-extended)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phoenix500526&langs_count=8&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Phoenix500526&langs_count=8&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
