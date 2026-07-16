@@ -99,6 +99,14 @@ HTML              2 hrs 7 mins          ██░░░░░░░░░░░�
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Phoenix500526&langs_count=8&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=Phoenix500526&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/Phoenix500526"
+    width="100%"
+    height="240"
+  />
+</a>
+  
 
 <!--
 **Phoenix500526/Phoenix500526** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
