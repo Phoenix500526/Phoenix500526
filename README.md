@@ -48,16 +48,7 @@ Hi, I'm Phoenix, a cpp programmer. I have worked as an embedded engineer at FlyA
 <code><img height="20" src="https://github.com/Phoenix500526/Phoenix500526/blob/main/rust_icon.svg"></code>
 
 
-
 <br />
-
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
 
 <table width="800px">
