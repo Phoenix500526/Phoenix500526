@@ -81,9 +81,9 @@ Hi, I'm Phoenix, a cpp programmer. I have worked as an embedded engineer at FlyA
   </table>
 
 
-#### 📈 My GitHub Stats && Top Language
-[![Phoenix's GitHub stats](https://github-stats-extended.vercel.app/api?username=Phoenix500526)](https://github.com/stats-organization/github-stats-extended)
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Phoenix500526&langs_count=8&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="./metrics-main.svg" alt="GitHub metrics" width="80%" />
+</p>
 
 
 <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=Phoenix500526&utm_content=line">
