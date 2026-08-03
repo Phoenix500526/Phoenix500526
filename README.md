@@ -9,9 +9,6 @@
   
 Hi, I'm Phoenix, a cpp programmer. I have worked as an embedded engineer at FlyAudio company. I am currently freelancing. Beside Programming, I also enjoy reading, working out and traveling. 
   
-  <img align="right" alt="GitHub metrics" src="./metrics-main.svg" width="50%" />
-<br />
-
 **Talking about Personal Stuffs:**
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning Rust and lua;
@@ -20,6 +17,12 @@ Hi, I'm Phoenix, a cpp programmer. I have worked as an embedded engineer at FlyA
 - 🖊 My Blog: [hacker-cube](https://hacker-cube.com)
 <br />
 <br />
+
+<p align="center">
+  <img align="top" src="./metrics-main.svg" alt="GitHub metrics" width="49%" />
+  <img align="top" src="./metrics-lang-notable.svg" alt="Languages and notable contributions" width="49%" />
+</p>
+
 <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=Phoenix500526&utm_content=line">
   <img
     src="https://render.gitanimals.org/lines/Phoenix500526"

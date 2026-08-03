@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="160" viewBox="0 0 420 160">
+  <rect width="420" height="160" fill="#ffffff" />
+  <rect x="0.5" y="0.5" width="419" height="159" fill="none" stroke="#d0d7de" />
+  <text x="24" y="48" fill="#0969da" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="20" font-weight="600">Languages and notable contributions</text>
+  <text x="24" y="84" fill="#57606a" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="14">This SVG will be refreshed by GitHub Actions.</text>
+  <text x="24" y="112" fill="#6e7781" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="13">lowlighter/metrics: metrics-lang-notable</text>
+</svg>
