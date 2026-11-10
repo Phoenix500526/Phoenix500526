@@ -18,6 +18,23 @@ Hi, I'm Phoenix, a cpp programmer. I have worked as an embedded engineer at FlyA
 <br />
 <br />
 
+Projects that I'm working on:
+
+**eBPF**
+
+- [bpftrace](https://github.com/bpftrace/bpftrace): A general-purpose tracing tool and language for Linux, powered by eBPF.
+- [libbpf](https://github.com/libbpf/libbpf): A BPF library supporting portable BPF CO-RE applications.
+- [libbpf-rs](https://github.com/libbpf/libbpf-rs): An idiomatic Rust wrapper around libbpf.
+
+**Consensus**
+
+- [openraft](https://github.com/databendlabs/openraft): A Raft consensus implementation in Rust supporting any async runtime.
+
+**Data Processing**
+
+- [datafusion](https://github.com/apache/datafusion): An extensible query engine written in Rust that uses Apache Arrow as its in-memory format.
+- [arrow-rs](https://github.com/apache/arrow-rs): A native Rust implementation of Apache Arrow and Apache Parquet.
+
 <p align="center">
   <img align="top" src="./metrics-main.svg" alt="GitHub metrics" width="49%" />
   <img align="top" src="./metrics-lang-notable.svg" alt="Languages and notable contributions" width="49%" />
