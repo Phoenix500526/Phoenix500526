@@ -1,11 +1,5 @@
 ### Hi, I'm Phoenix 👋
-<a href="https://twitter.com/Lancelo92664230">
-  <img align="left" alt="Phoenix's twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/twitter.svg" />
-</a>
 
-  
-<br />
-  
 I'm a software developer working with Rust and C++.
 
 Open-source software has helped me solve many problems at work, and
@@ -23,9 +17,11 @@ projects, or discuss job opportunities.
 I'm also learning English. I'm comfortable reading and writing,
 and I'm focusing on improving my speaking and listening.
 
-[Email](mailto:phoenix500526@163.com) · [Blog](https://phoenix500526.github.io)
-<br />
-<br />
+<p>
+  <a href="https://twitter.com/Lancelo92664230" title="Twitter"><img src="https://api.iconify.design/feather/twitter.svg?color=%236e7781" alt="Twitter" width="24" height="24" /></a>&nbsp;&nbsp;
+  <a href="mailto:phoenix500526@163.com" title="Email"><img src="https://api.iconify.design/feather/mail.svg?color=%236e7781" alt="Email" width="24" height="24" /></a>&nbsp;&nbsp;
+  <a href="https://phoenix500526.github.io" title="Blog"><img src="https://api.iconify.design/feather/globe.svg?color=%236e7781" alt="Blog" width="24" height="24" /></a>
+</p>
 
 Projects that I'm working on:
 
