@@ -1,20 +1,29 @@
-### Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+### Hi, I'm Phoenix 👋
 <a href="https://twitter.com/Lancelo92664230">
   <img align="left" alt="Phoenix's twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/twitter.svg" />
 </a>
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
   
 <br />
   
-Hi, I'm Phoenix, a cpp programmer. I have worked as an embedded engineer at FlyAudio company. I am currently freelancing. Beside Programming, I also enjoy reading, working out and traveling. 
-  
-**Talking about Personal Stuffs:**
-- 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning Rust and lua;
-- 💬 Ask me about anything, I am happy to help;
-- 📫 [Mail to me](mailto:Phoenix400426@gmail.com")
-- 🖊 My Blog: [hacker-cube](https://hacker-cube.com)
+I'm a software developer working with Rust and C++.
+
+Open-source software has helped me solve many problems at work, and
+I'm grateful to the people behind it. I hope my code can help someone
+else, somewhere, someday. Contributing and solving real problems is
+one of my main ways of learning, and I've made many like-minded
+friends along the way.
+
+Outside of programming, I enjoy reading, traveling, working out,
+and photography.
+
+I'm happy to chat about technology, collaborate on open-source
+projects, or discuss job opportunities.
+
+I'm also learning English. I'm comfortable reading and writing,
+and I'm focusing on improving my speaking and listening.
+
+[Email](mailto:phoenix500526@163.com) · [Blog](https://phoenix500526.github.io)
 <br />
 <br />
 
