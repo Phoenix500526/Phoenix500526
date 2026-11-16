@@ -15,12 +15,6 @@ friends along the way.
 - 🤝 **Let’s connect:** I'm happy to chat about technology, collaborate on open-source
   projects, or discuss job opportunities.
 
-<p>
-  <a href="https://twitter.com/Lancelo92664230" title="Twitter"><img src="https://api.iconify.design/feather/twitter.svg?color=%236e7781" alt="Twitter" width="24" height="24" /></a>&nbsp;&nbsp;
-  <a href="mailto:phoenix500526@163.com" title="Email"><img src="https://api.iconify.design/feather/mail.svg?color=%236e7781" alt="Email" width="24" height="24" /></a>&nbsp;&nbsp;
-  <a href="https://phoenix500526.github.io" title="Blog"><img src="https://api.iconify.design/feather/globe.svg?color=%236e7781" alt="Blog" width="24" height="24" /></a>
-</p>
-
 ## Projects that I'm working on:
 
 ### eBPF
