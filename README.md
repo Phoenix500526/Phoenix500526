@@ -8,11 +8,11 @@ else, somewhere, someday. Contributing and solving real problems is
 one of my main ways of learning, and I've made many like-minded
 friends along the way.
 
-- **Beyond code:** Outside of programming, I enjoy reading, traveling, working out,
+- 🌿 **Beyond code:** Outside of programming, I enjoy reading, traveling, working out,
   and photography.
-- **English:** I'm also learning English. I'm comfortable reading and writing,
+- 🗣️ **English:** I'm also learning English. I'm comfortable reading and writing,
   and I'm focusing on improving my speaking and listening.
-- **Let’s connect:** I'm happy to chat about technology, collaborate on open-source
+- 🤝 **Let’s connect:** I'm happy to chat about technology, collaborate on open-source
   projects, or discuss job opportunities.
 
 <p>
