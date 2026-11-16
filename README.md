@@ -1,4 +1,4 @@
-### Hi, I'm Phoenix 👋
+## Hi, I'm Phoenix 👋
 
 I'm a software developer working with Rust and C++.
 
@@ -8,14 +8,12 @@ else, somewhere, someday. Contributing and solving real problems is
 one of my main ways of learning, and I've made many like-minded
 friends along the way.
 
-Outside of programming, I enjoy reading, traveling, working out,
-and photography.
-
-I'm happy to chat about technology, collaborate on open-source
-projects, or discuss job opportunities.
-
-I'm also learning English. I'm comfortable reading and writing,
-and I'm focusing on improving my speaking and listening.
+- **Beyond code:** Outside of programming, I enjoy reading, traveling, working out,
+  and photography.
+- **English:** I'm also learning English. I'm comfortable reading and writing,
+  and I'm focusing on improving my speaking and listening.
+- **Let’s connect:** I'm happy to chat about technology, collaborate on open-source
+  projects, or discuss job opportunities.
 
 <p>
   <a href="https://twitter.com/Lancelo92664230" title="Twitter"><img src="https://api.iconify.design/feather/twitter.svg?color=%236e7781" alt="Twitter" width="24" height="24" /></a>&nbsp;&nbsp;
@@ -23,19 +21,19 @@ and I'm focusing on improving my speaking and listening.
   <a href="https://phoenix500526.github.io" title="Blog"><img src="https://api.iconify.design/feather/globe.svg?color=%236e7781" alt="Blog" width="24" height="24" /></a>
 </p>
 
-Projects that I'm working on:
+## Projects that I'm working on:
 
-**eBPF**
+### eBPF
 
 - [bpftrace](https://github.com/bpftrace/bpftrace): A general-purpose tracing tool and language for Linux, powered by eBPF.
 - [libbpf](https://github.com/libbpf/libbpf): A BPF library supporting portable BPF CO-RE applications.
 - [libbpf-rs](https://github.com/libbpf/libbpf-rs): An idiomatic Rust wrapper around libbpf.
 
-**Consensus**
+### Consensus
 
 - [openraft](https://github.com/databendlabs/openraft): A Raft consensus implementation in Rust supporting any async runtime.
 
-**Data Processing**
+### Data Processing
 
 - [datafusion](https://github.com/apache/datafusion): An extensible query engine written in Rust that uses Apache Arrow as its in-memory format.
 - [arrow-rs](https://github.com/apache/arrow-rs): A native Rust implementation of Apache Arrow and Apache Parquet.
